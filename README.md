@@ -2,7 +2,8 @@
 
 <p align="center" >
   <samp>
-    <br/>Me chamo Matheus,sou desenvolvedor Python Fullstack e estudante de Análise e Desenvolvimento de Sistemas... 
+    <br />Me chamo Matheus
+    <br/>Sou desenvolvedor Python Fullstack e estudante de Análise e Desenvolvimento de Sistemas... 
       <br/>Aqui eu exponho alguns dos meus projetos pessoais feitos em Javascript, Python, React, Vue e outros.
   </samp>
   <br/>
