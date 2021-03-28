@@ -17,6 +17,7 @@
 - Software para automação de algumas tarefas para um setor administrativo
 - Bot para whatsapp
 - Projeto para automação e monitoramento de uma planta (hardware)
+- Software para auxiliar o Conselho Tutelar em algumas tarefas
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Estou estudando...
 - Machine Learning
 - Aprimorando design patterns
