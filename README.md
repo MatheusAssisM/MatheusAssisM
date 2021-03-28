@@ -14,10 +14,10 @@
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Estou trabalhando em...
-- Software para automação de algumas tarefas para um setor administrativo
-- Bot para whatsapp
-- Projeto para automação e monitoramento de uma planta (hardware)
-- Software para auxiliar o Conselho Tutelar em algumas tarefas
+- [Software](https://github.com/MatheusAssisM/suricato) para automação de algumas tarefas para um setor administrativo
+- [Bot](https://github.com/MatheusAssisM/starla) para whatsapp
+- [Projeto](https://github.com/MatheusAssisM/cyber-bonsai) para automação e monitoramento de uma planta (hardware)
+- [Software](https://github.com/MatheusAssisM/CT-I) para auxiliar o Conselho Tutelar em algumas tarefas
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Estou estudando...
 - Machine Learning
 - Aprimorando design patterns
@@ -58,4 +58,5 @@
   <a href="mailto:matheusassismelo@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
+  <img src="https://image.flaticon.com/icons/png/512/65/65032.png" height="35px" style="margin: 5px;" />
 </p>
