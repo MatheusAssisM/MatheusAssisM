@@ -45,7 +45,7 @@
 
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Como me encontrar: ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Como me encontrar:
 <p align="left">
   </a>
   <a href="https://www.linkedin.com/in/matheus-assis-788a17188/">
