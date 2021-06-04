@@ -52,6 +52,10 @@
   <a href="https://www.linkedin.com/in/matheus-assis-788a17188/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
+   <a href="https://api.whatsapp.com/send/?phone=5561985775929&text&app_absent=0&lang=pt_br">
+    <img src="https://www.jungnapratica.com.br/wp-content/uploads/2019/05/icon-whatsApp.png" height="35px" style="margin: 5px;" />
+  </a>
+  
   <a href="https://discord.gg/vENjWZgWbm">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
   </a>
