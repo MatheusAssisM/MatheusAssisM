@@ -3,15 +3,15 @@
 <p align="center" >
   <samp>
     <br />Me chamo Matheus
-    <br/>Sou desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas
-      <br/>Aqui eu exponho alguns dos meus projetos pessoais feitos em Javascript, Python, React, Vue e outros.
+    <br/>Sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas
+      <br/>Aqui eu exponho alguns dos meus projetos pessoais feitos em Python, Javascript, C++, React, Vue e outros.
   </samp>
   <br/>
   <br/>
   <br/>
 </p>
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+<!-- <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/> -->
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Estou estudando...
 - Machine Learning
