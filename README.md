@@ -11,25 +11,6 @@
   <br/>
 </p>
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Estou estudando...
-- Machine Learning
-- Aprimorando design patterns
-- Segurança e autenticação de softwares
-
-### Ferramentas e Frameworks
-<p align="center">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-</p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Alguns status
 
