@@ -38,7 +38,7 @@
   <a href="mailto:matheusassismelo@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
-  <a href="https://drive.google.com/file/d/1bnqmmidhau-lyFgV_L34rM5-CHDhDkFn/view?usp=sharing">
+  <a href="https://www.canva.com/design/DAEqOzf6TD8/m9_U3qdy-bcjQLhlvyE9Gg/view?utm_content=DAEqOzf6TD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://image.flaticon.com/icons/png/512/65/65032.png" height="35px" style="margin: 5px;" />
   </a>
 </p>
