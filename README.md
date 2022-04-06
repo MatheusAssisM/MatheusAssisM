@@ -39,6 +39,6 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
   <a href="https://www.canva.com/design/DAEqOzf6TD8/m9_U3qdy-bcjQLhlvyE9Gg/view?utm_content=DAEqOzf6TD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://image.flaticon.com/icons/png/512/65/65032.png" height="35px" style="margin: 5px;" />
+    <img src="https://www.pikpng.com/pngl/m/345-3453994_png-file-svg-curriculo-branco-icon-png-clipart.png" height="35px" style="margin: 5px;" />
   </a>
 </p>
