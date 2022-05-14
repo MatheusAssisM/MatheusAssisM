@@ -2,9 +2,9 @@
 
 <p align="center" >
   <samp>
-    <br />Me chamo Matheus
-    <br/>Sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas
-      <br/>Aqui eu exponho alguns dos meus projetos pessoais feitos em Python, Javascript, C++, React, Vue e outros.
+    <br />I'm Matheus
+    <br/> Software Engineer
+      <br/>Technology lover
   </samp>
   <br/>
   <br/>
@@ -12,7 +12,7 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Alguns status
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
 
 <p align="right">
@@ -22,7 +22,7 @@
 
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Como me encontrar:
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How find me:
 <p align="left">
   </a>
   <a href="https://www.linkedin.com/in/matheus-assis-788a17188/">
