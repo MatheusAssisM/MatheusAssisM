@@ -1,28 +1,11 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MatheusAssisM&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-<p align="center" >
-  <samp>
-    <br />I'm Matheus
-    <br/> Software Engineer
-      <br/>Technology lover
-  </samp>
-  <br/>
-  <br/>
-  <br/>
-</p>
+### I'm Matheus, Software Engineer, Technology lover
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=MatheusAssisM&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+<p>
 
-
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=matheusassism&theme=tokyonight&show_icons=true" />
-
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassism&theme=tokyonight&show_icons=true" />
-
-</p>
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How find me:
 <p align="left">
   </a>
   <a href="https://www.linkedin.com/in/matheus-assis-788a17188/">
@@ -42,3 +25,6 @@
     <img src="https://www.pikpng.com/pngl/m/345-3453994_png-file-svg-curriculo-branco-icon-png-clipart.png" height="35px" style="margin: 5px;" />
   </a>
 </p>
+
+</p>
+<hr/>
